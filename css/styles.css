@@ -31,7 +31,7 @@ header h1 {
   font-size: 1.6rem;
   font-weight: 600;
   padding-left: 0.5rem;
-  color: #01261C;
+  color: white;
 }
 
 #navWrapper {
@@ -103,6 +103,7 @@ main h1 {
   background-color: #A6032F;
   font-size: 1.5rem;
   text-align: center;
+  color: white;
 }
 .allCards section img {
   width: 100%;

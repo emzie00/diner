@@ -27,7 +27,7 @@ header {
         font-size: 1.6rem;
         font-weight: $boldWeight;
         padding-left: .5rem;
-        color: $fontColor;
+        color: white;
     }
 }
 #navWrapper {
@@ -98,6 +98,7 @@ main {
             background-color: #A6032F;
             font-size: 1.5rem;
             text-align: center;
+            color: white;
         }
         img {
             width: 100%;
