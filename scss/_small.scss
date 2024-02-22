@@ -133,6 +133,10 @@ footer {
         p {
             font-size: 1.2rem;
             margin: .5rem;
+            color: $fontColor;
+            a {
+                color: $fontColor;
+            }
         }
         ion-icon {
             color: #A6032F;
